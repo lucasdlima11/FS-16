@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    background-color: #9c9c9c;
+}
+
+.title {
+    text-align: center;
+    padding: 10px;
+    font-family: sans-serif;
+    color: #061b7a86;
+    font-size: 30px;
+}
+
+.descricao {
+    margin: 15px 5px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo_contato {
+    margin: 15px 5px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.links {
+    display: flex;
+}
+
+.linkedin {
+    background-color: blue;
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+}
+
+
+.github {
+    background-color: black;
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
