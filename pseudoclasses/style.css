@@ -1,0 +1,35 @@
+h1 {
+    color: brown;
+}
+
+ul li {
+    color: blue;
+}
+
+ul li:hover {
+    color: red;
+}
+
+#fla:hover {
+    color: black;
+}
+
+.ce:hover {
+    color: green;
+}
+
+button:focus {
+    background-color: blue;
+}
+
+button{
+    margin: 10px;
+}
+
+tr:nth-child(odd) {
+    background-color: yellow;
+}
+
+tr:nth-child(even) {
+    background-color: gray;
+}
